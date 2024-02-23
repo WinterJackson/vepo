@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "foodly_react_native",
-    "slug": "foodly_react_native",
+    "name": "vepo_react_native",
+    "slug": "vepo_react_native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,7 @@
         "backgroundColor": "#ffffff"
       },
       "config": {
-        "package": "com.dacarnage.foodly",
+        "package": "com.vepo.clear",
         "googleMaps": {
           "apiKey": ""
         }
@@ -33,7 +33,7 @@
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.FOREGROUND_SERVICE"
       ],
-      "package": "com.dacarnage.expofire"
+      "package": "com.vepo.expofire"
       
     },
     "web": {
